@@ -1,2 +1,5 @@
 # ConvolutionalNeuralNetworkTest
-畳み込みニューラルネットワークの習作
+畳み込みニューラルネットワークを勉強も兼ねて試しに実装してみました
+
+Author
+渡邉 賢人
