@@ -1,0 +1,2 @@
+# ConvolutionalNeuralNetworkTest
+畳み込みニューラルネットワークの習作
